@@ -1,5 +1,4 @@
-# mrcz-osx
-Hackintosh/Ryzentosh OpenCore builds
+# Hackintosh/Ryzentosh OpenCore builds
 
 Those are my OpenCore builds for desktop PCs and mobile notebooks
 
